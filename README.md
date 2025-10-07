@@ -51,9 +51,5 @@ Key Features
 - Modular handlers and VIPs allow integration of additional AXI interfaces or custom peripherals without modifying the top-level testbench.
 - Parser and report modules are generic, supporting future extensions to new transaction types.
 
-8. Simulation Utilities
-
-- Configures simulation time format using:
-- $timeformat(-9, 3, " ns", 13);
 
 This testbench provides a robust, flexible, and modular framework for verifying complex AXI-based IP cores with file-driven stimulus, automated reporting, and protocol-compliant VIP integration.
