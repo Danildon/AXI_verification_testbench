@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="Top_TB_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="TEST_AXI_VIP_ENV_axi4stream_vip_0_0_pkg" />
+            <top_module name="TEST_AXI_VIP_ENV_axi4stream_vip_1_0_pkg" />
+            <top_module name="TEST_AXI_VIP_ENV_axi4stream_vip_2_0_pkg" />
+            <top_module name="TEST_AXI_VIP_ENV_axi4stream_vip_3_0_pkg" />
+            <top_module name="TEST_AXI_VIP_ENV_axi_vip_0_0_pkg" />
+            <top_module name="TEST_AXI_VIP_ENV_axi_vip_1_0_pkg" />
+            <top_module name="Top_TB" />
+            <top_module name="\$unit_parser_pkg_sv " />
+            <top_module name="axi4stream_vip_pkg" />
+            <top_module name="axi_bram_ctrl_funcs" />
+            <top_module name="axi_vdma_pkg" />
+            <top_module name="axi_vip_pkg" />
+            <top_module name="glbl" />
+            <top_module name="lib_pkg" />
+            <top_module name="parser_pkg" />
+            <top_module name="std" />
+            <top_module name="tb_pkg" />
+            <top_module name="types" />
+            <top_module name="vcomponents" />
+            <top_module name="xil_common_vip_pkg" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="75000000fs"></ZoomStartTime>
+      <ZoomEndTime time="74475000001fs"></ZoomEndTime>
+      <Cursor1Time time="52145000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="229"></NameColumnWidth>
+      <ValueColumnWidth column_width="58"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="22" />
+   <wvobject type="divider" fp_name="divider86">
+      <obj_property name="label">VDMA</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_TB/UUT/TEST_AXI_VIP_ENV_i/AXI_VIPs/axi4stream_vip_0/M_AXIS" type="protoinst">
+      <obj_property name="children_use_element_short_name">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_ENUM_TRANSACTION</obj_property>
+      <obj_property name="EnumTransactionColorTable">fff,fff=blank</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#00E600</obj_property>
+      <obj_property name="Render_Data">/Top_TB/UUT/TEST_AXI_VIP_ENV_i/AXI_VIPs/axi4stream_vip_0/M_AXIS.streamWaveData</obj_property>
+      <obj_property name="Number_Overlay">2</obj_property>
+      <obj_property name="Overlay_Object_0">/Top_TB/UUT/TEST_AXI_VIP_ENV_i/AXI_VIPs/axi4stream_vip_0/M_AXIS.linkStarve</obj_property>
+      <obj_property name="Overlay_Color_0">#99E600</obj_property>
+      <obj_property name="Overlay_Object_1">/Top_TB/UUT/TEST_AXI_VIP_ENV_i/AXI_VIPs/axi4stream_vip_0/M_AXIS.linkStall</obj_property>
+      <obj_property name="Overlay_Color_1">#E64C00</obj_property>
+      <obj_property name="Detail_Data">/Top_TB/UUT/TEST_AXI_VIP_ENV_i/AXI_VIPs/axi4stream_vip_0/M_AXIS.streamTooltipData</obj_property>
+      <obj_property name="ElementShortName">M_AXIS</obj_property>
+      <obj_property name="ObjectShortName">M_AXIS</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_TB/UUT/TEST_AXI_VIP_ENV_i/axi_vdma_0/M_AXI_S2MM" type="protoinst">
+      <obj_property name="ElementShortName">M_AXI_S2MM</obj_property>
+      <obj_property name="ObjectShortName">M_AXI_S2MM</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_TB/UUT/TEST_AXI_VIP_ENV_i/axi_vdma_0/S_AXIS_S2MM" type="protoinst">
+      <obj_property name="children_use_element_short_name">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_ENUM_TRANSACTION</obj_property>
+      <obj_property name="EnumTransactionColorTable">fff,fff=blank</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#00E600</obj_property>
+      <obj_property name="Render_Data">/Top_TB/UUT/TEST_AXI_VIP_ENV_i/axi_vdma_0/S_AXIS_S2MM.streamWaveData</obj_property>
+      <obj_property name="Number_Overlay">2</obj_property>
+      <obj_property name="Overlay_Object_0">/Top_TB/UUT/TEST_AXI_VIP_ENV_i/axi_vdma_0/S_AXIS_S2MM.linkStarve</obj_property>
+      <obj_property name="Overlay_Color_0">#99E600</obj_property>
+      <obj_property name="Overlay_Object_1">/Top_TB/UUT/TEST_AXI_VIP_ENV_i/axi_vdma_0/S_AXIS_S2MM.linkStall</obj_property>
+      <obj_property name="Overlay_Color_1">#E64C00</obj_property>
+      <obj_property name="Detail_Data">/Top_TB/UUT/TEST_AXI_VIP_ENV_i/axi_vdma_0/S_AXIS_S2MM.streamTooltipData</obj_property>
+      <obj_property name="ElementShortName">S_AXIS_S2MM</obj_property>
+      <obj_property name="ObjectShortName">S_AXIS_S2MM</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_TB/UUT/TEST_AXI_VIP_ENV_i/axi_vdma_0/S_AXI_LITE" type="protoinst">
+      <obj_property name="ElementShortName">S_AXI_LITE</obj_property>
+      <obj_property name="ObjectShortName">S_AXI_LITE</obj_property>
+   </wvobject>
+   <wvobject type="divider" fp_name="divider87">
+      <obj_property name="label">BRAM</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_TB/UUT/TEST_AXI_VIP_ENV_i/axi_bram_ctrl_0_bram/clka" type="logic">
+      <obj_property name="ElementShortName">clka</obj_property>
+      <obj_property name="ObjectShortName">clka</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_TB/UUT/TEST_AXI_VIP_ENV_i/axi_bram_ctrl_0_bram/rsta" type="logic">
+      <obj_property name="ElementShortName">rsta</obj_property>
+      <obj_property name="ObjectShortName">rsta</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_TB/UUT/TEST_AXI_VIP_ENV_i/axi_bram_ctrl_0_bram/ena" type="logic">
+      <obj_property name="ElementShortName">ena</obj_property>
+      <obj_property name="ObjectShortName">ena</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_TB/UUT/TEST_AXI_VIP_ENV_i/axi_bram_ctrl_0_bram/wea" type="array">
+      <obj_property name="ElementShortName">wea[15:0]</obj_property>
+      <obj_property name="ObjectShortName">wea[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_TB/UUT/TEST_AXI_VIP_ENV_i/axi_bram_ctrl_0_bram/addra" type="array">
+      <obj_property name="ElementShortName">addra[31:0]</obj_property>
+      <obj_property name="ObjectShortName">addra[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_TB/UUT/TEST_AXI_VIP_ENV_i/axi_bram_ctrl_0_bram/dina" type="array">
+      <obj_property name="ElementShortName">dina[127:0]</obj_property>
+      <obj_property name="ObjectShortName">dina[127:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_TB/UUT/TEST_AXI_VIP_ENV_i/axi_bram_ctrl_0_bram/douta" type="array">
+      <obj_property name="ElementShortName">douta[127:0]</obj_property>
+      <obj_property name="ObjectShortName">douta[127:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_TB/UUT/TEST_AXI_VIP_ENV_i/axi_bram_ctrl_0_bram/clkb" type="logic">
+      <obj_property name="ElementShortName">clkb</obj_property>
+      <obj_property name="ObjectShortName">clkb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_TB/UUT/TEST_AXI_VIP_ENV_i/axi_bram_ctrl_0_bram/rstb" type="logic">
+      <obj_property name="ElementShortName">rstb</obj_property>
+      <obj_property name="ObjectShortName">rstb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_TB/UUT/TEST_AXI_VIP_ENV_i/axi_bram_ctrl_0_bram/enb" type="logic">
+      <obj_property name="ElementShortName">enb</obj_property>
+      <obj_property name="ObjectShortName">enb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_TB/UUT/TEST_AXI_VIP_ENV_i/axi_bram_ctrl_0_bram/web" type="array">
+      <obj_property name="ElementShortName">web[15:0]</obj_property>
+      <obj_property name="ObjectShortName">web[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_TB/UUT/TEST_AXI_VIP_ENV_i/axi_bram_ctrl_0_bram/addrb" type="array">
+      <obj_property name="ElementShortName">addrb[31:0]</obj_property>
+      <obj_property name="ObjectShortName">addrb[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_TB/UUT/TEST_AXI_VIP_ENV_i/axi_bram_ctrl_0_bram/dinb" type="array">
+      <obj_property name="ElementShortName">dinb[127:0]</obj_property>
+      <obj_property name="ObjectShortName">dinb[127:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_TB/UUT/TEST_AXI_VIP_ENV_i/axi_bram_ctrl_0_bram/doutb" type="array">
+      <obj_property name="ElementShortName">doutb[127:0]</obj_property>
+      <obj_property name="ObjectShortName">doutb[127:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_TB/UUT/TEST_AXI_VIP_ENV_i/axi_bram_ctrl_0_bram/rsta_busy" type="logic">
+      <obj_property name="ElementShortName">rsta_busy</obj_property>
+      <obj_property name="ObjectShortName">rsta_busy</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_TB/UUT/TEST_AXI_VIP_ENV_i/axi_bram_ctrl_0_bram/rstb_busy" type="logic">
+      <obj_property name="ElementShortName">rstb_busy</obj_property>
+      <obj_property name="ObjectShortName">rstb_busy</obj_property>
+   </wvobject>
+</wave_config>

@@ -1,0 +1,15 @@
+-- AXI4-LITE Write - Control REG
+-- Address: 0x44A00000, Data: 0x07F7EF06, AXI VIP Selected: 0 
+
+-------------------------------------------
+
+AXI4-LITE WRITE Transaction EXECUTED!!!
+ # AXI VIP Selected :          0 
+ # Address          : 0x44a00000 
+ # Write Data       : 0x07f7ef06 
+
+ # TIME             :   3161.000 ns 
+-------------------------------------------
+
+
+ -- Wait for Video

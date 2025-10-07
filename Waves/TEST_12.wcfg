@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="Top_TB_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="TEST_AXI_VIP_ENV_axi4stream_vip_0_0_pkg" />
+            <top_module name="TEST_AXI_VIP_ENV_axi4stream_vip_1_0_pkg" />
+            <top_module name="TEST_AXI_VIP_ENV_axi4stream_vip_2_0_pkg" />
+            <top_module name="TEST_AXI_VIP_ENV_axi4stream_vip_3_0_pkg" />
+            <top_module name="TEST_AXI_VIP_ENV_axi_vip_0_0_pkg" />
+            <top_module name="TEST_AXI_VIP_ENV_axi_vip_1_0_pkg" />
+            <top_module name="Top_TB" />
+            <top_module name="\$unit_parser_pkg_sv " />
+            <top_module name="axi4stream_vip_pkg" />
+            <top_module name="axi_vip_pkg" />
+            <top_module name="comp_defs" />
+            <top_module name="glbl" />
+            <top_module name="ipif_pkg" />
+            <top_module name="lib_pkg" />
+            <top_module name="parser_pkg" />
+            <top_module name="std" />
+            <top_module name="tb_pkg" />
+            <top_module name="types" />
+            <top_module name="vcomponents" />
+            <top_module name="xil_common_vip_pkg" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="122625100000fs"></ZoomStartTime>
+      <ZoomEndTime time="130005100001fs"></ZoomEndTime>
+      <Cursor1Time time="125745100000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="175"></NameColumnWidth>
+      <ValueColumnWidth column_width="118"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="29" />
+   <wvobject fp_name="/Top_TB/UUT/TEST_AXI_VIP_ENV_i/axi_quad_spi_0/AXI_FULL" type="protoinst">
+      <obj_property name="children_use_element_short_name">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_ENUM_TRANSACTION</obj_property>
+      <obj_property name="EnumTransactionColorTable">0=blank 1=#D399FF 2=pink</obj_property>
+      <obj_property name="EnumTransactionValueTable">0=blank;1=Read;2=Write;3=Read/Write</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">turquoise</obj_property>
+      <obj_property name="Render_Data">/Top_TB/UUT/TEST_AXI_VIP_ENV_i/axi_quad_spi_0/AXI_FULL.readWriteSummary</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      <obj_property name="CellHeight">36</obj_property>
+      <obj_property name="ElementShortName">AXI_FULL</obj_property>
+      <obj_property name="ObjectShortName">AXI_FULL</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_TB/UUT/TEST_AXI_VIP_ENV_i/axi_quad_spi_0/io0_i" type="logic">
+      <obj_property name="ElementShortName">io0_i</obj_property>
+      <obj_property name="ObjectShortName">io0_i</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_TB/UUT/TEST_AXI_VIP_ENV_i/axi_quad_spi_0/io0_o" type="logic">
+      <obj_property name="ElementShortName">io0_o</obj_property>
+      <obj_property name="ObjectShortName">io0_o</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_TB/UUT/TEST_AXI_VIP_ENV_i/axi_quad_spi_0/io0_t" type="logic">
+      <obj_property name="ElementShortName">io0_t</obj_property>
+      <obj_property name="ObjectShortName">io0_t</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_TB/UUT/TEST_AXI_VIP_ENV_i/axi_quad_spi_0/io1_i" type="logic">
+      <obj_property name="ElementShortName">io1_i</obj_property>
+      <obj_property name="ObjectShortName">io1_i</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_TB/UUT/TEST_AXI_VIP_ENV_i/axi_quad_spi_0/io1_o" type="logic">
+      <obj_property name="ElementShortName">io1_o</obj_property>
+      <obj_property name="ObjectShortName">io1_o</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_TB/UUT/TEST_AXI_VIP_ENV_i/axi_quad_spi_0/io1_t" type="logic">
+      <obj_property name="ElementShortName">io1_t</obj_property>
+      <obj_property name="ObjectShortName">io1_t</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_TB/UUT/TEST_AXI_VIP_ENV_i/axi_quad_spi_0/io2_i" type="logic">
+      <obj_property name="ElementShortName">io2_i</obj_property>
+      <obj_property name="ObjectShortName">io2_i</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_TB/UUT/TEST_AXI_VIP_ENV_i/axi_quad_spi_0/io2_o" type="logic">
+      <obj_property name="ElementShortName">io2_o</obj_property>
+      <obj_property name="ObjectShortName">io2_o</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_TB/UUT/TEST_AXI_VIP_ENV_i/axi_quad_spi_0/io2_t" type="logic">
+      <obj_property name="ElementShortName">io2_t</obj_property>
+      <obj_property name="ObjectShortName">io2_t</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_TB/UUT/TEST_AXI_VIP_ENV_i/axi_quad_spi_0/io3_i" type="logic">
+      <obj_property name="ElementShortName">io3_i</obj_property>
+      <obj_property name="ObjectShortName">io3_i</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_TB/UUT/TEST_AXI_VIP_ENV_i/axi_quad_spi_0/io3_o" type="logic">
+      <obj_property name="ElementShortName">io3_o</obj_property>
+      <obj_property name="ObjectShortName">io3_o</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_TB/UUT/TEST_AXI_VIP_ENV_i/axi_quad_spi_0/io3_t" type="logic">
+      <obj_property name="ElementShortName">io3_t</obj_property>
+      <obj_property name="ObjectShortName">io3_t</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_TB/UUT/TEST_AXI_VIP_ENV_i/axi_quad_spi_0/sck_i" type="logic">
+      <obj_property name="ElementShortName">sck_i</obj_property>
+      <obj_property name="ObjectShortName">sck_i</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_TB/UUT/TEST_AXI_VIP_ENV_i/axi_quad_spi_0/sck_o" type="logic">
+      <obj_property name="ElementShortName">sck_o</obj_property>
+      <obj_property name="ObjectShortName">sck_o</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_TB/UUT/TEST_AXI_VIP_ENV_i/axi_quad_spi_0/sck_t" type="logic">
+      <obj_property name="ElementShortName">sck_t</obj_property>
+      <obj_property name="ObjectShortName">sck_t</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_TB/UUT/TEST_AXI_VIP_ENV_i/axi_quad_spi_0/ss_i" type="array">
+      <obj_property name="ElementShortName">ss_i[0:0]</obj_property>
+      <obj_property name="ObjectShortName">ss_i[0:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_TB/UUT/TEST_AXI_VIP_ENV_i/axi_quad_spi_0/ss_o" type="array">
+      <obj_property name="ElementShortName">ss_o[0:0]</obj_property>
+      <obj_property name="ObjectShortName">ss_o[0:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_TB/UUT/TEST_AXI_VIP_ENV_i/axi_quad_spi_0/ss_t" type="logic">
+      <obj_property name="ElementShortName">ss_t</obj_property>
+      <obj_property name="ObjectShortName">ss_t</obj_property>
+   </wvobject>
+   <wvobject type="divider" fp_name="divider444">
+      <obj_property name="label">FLASH MODEL</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_TB/UUT/MT25QL512_i/S" type="logic">
+      <obj_property name="ElementShortName">S</obj_property>
+      <obj_property name="ObjectShortName">S</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_TB/UUT/MT25QL512_i/C_" type="logic">
+      <obj_property name="ElementShortName">C_</obj_property>
+      <obj_property name="ObjectShortName">C_</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_TB/UUT/MT25QL512_i/Vcc" type="array">
+      <obj_property name="ElementShortName">Vcc[31:0]</obj_property>
+      <obj_property name="ObjectShortName">Vcc[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_TB/UUT/MT25QL512_i/DQ0" type="logic">
+      <obj_property name="ElementShortName">DQ0</obj_property>
+      <obj_property name="ObjectShortName">DQ0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_TB/UUT/MT25QL512_i/DQ1" type="logic">
+      <obj_property name="ElementShortName">DQ1</obj_property>
+      <obj_property name="ObjectShortName">DQ1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_TB/UUT/MT25QL512_i/RESET" type="logic">
+      <obj_property name="ElementShortName">RESET</obj_property>
+      <obj_property name="ObjectShortName">RESET</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_TB/UUT/MT25QL512_i/HOLD_DQ3" type="logic">
+      <obj_property name="ElementShortName">HOLD_DQ3</obj_property>
+      <obj_property name="ObjectShortName">HOLD_DQ3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_TB/UUT/MT25QL512_i/RESET2" type="logic">
+      <obj_property name="ElementShortName">RESET2</obj_property>
+      <obj_property name="ObjectShortName">RESET2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Top_TB/UUT/MT25QL512_i/Vpp_W_DQ2" type="logic">
+      <obj_property name="ElementShortName">Vpp_W_DQ2</obj_property>
+      <obj_property name="ObjectShortName">Vpp_W_DQ2</obj_property>
+   </wvobject>
+</wave_config>

@@ -1,0 +1,41 @@
+-----------------------------------------------------------------------------------
+-------------------------- v_axi4s_vid_out_0_cfg_0 --------------------------------
+-----------------------------------------------------------------------------------
+wait_us(3)
+-- AXI4-LITE Write - Video Active Width
+-- Address: 0x44A00018, Data: 0x00000010, AXI VIP Selected: 0 
+axi4lite_wr(0x44A00018,0x0000001E,0)
+
+-- Wait
+wait_us(2)
+
+-- AXI4-LITE Write - Video Active Height
+-- Address: 0x44A00010, Data: 0x00000010, AXI VIP Selected: 0 
+axi4lite_wr(0x44A00010,0x00000006,0)
+
+-- Wait
+wait_us(2)
+
+-- AXI4-LITE Write - BKG Pattern
+-- Address: 0x44A00020, Data: 0x0000000F, AXI VIP Selected: 0 
+
+axi4lite_wr(0x44A00020,0x00000001,0)
+
+-- Wait
+wait_us(2)
+
+-- AXI4-LITE Write - Color Format
+-- Address: 0x44A00040, Data: 0x00000002, AXI VIP Selected: 0 
+axi4lite_wr(0x44A00040,0x00000000,0)
+
+-- Wait
+wait_us(2)
+
+-- AXI4-LITE Write - Control
+-- Address: 0x44A00000, Data: 0x00000001, AXI VIP Selected: 0 
+axi4lite_wr(0x44A00000,0x00000081,0)
+
+-- Wait
+wait_us(10000)
+
+

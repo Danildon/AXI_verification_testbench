@@ -1,0 +1,48 @@
+-----------------------------------------------------------------------------------
+---------------------------axi_vdma_6_3_read_cfg_0_8_0 ----------------------------
+-----------------------------------------------------------------------------------
+wait_us(3)
+
+-- AXI4-LITE Write - Control REG
+-- Address: 0x44A00000, Data: 0x0000000B, AXI VIP Selected: 0 
+axi4lite_wr(0x44A00000,0x0000000B,0)
+
+wait_us(3)
+
+-- AXI4-LITE Write - Control REG
+-- Address: 0x44A0005C, Data: 0xC0000000, AXI VIP Selected: 0 
+axi4lite_wr(0x44A0005C,0xC0000000,0)
+
+wait_us(3)
+
+-- AXI4-LITE Write - Control REG
+-- Address: 0x44A00060, Data: 0xC0001000, AXI VIP Selected: 0 
+axi4lite_wr(0x44A00060,0xC0001000,0)
+
+wait_us(3)
+
+-- AXI4-LITE Write - Control REG
+-- Address: 0x44A00064, Data: 0xC0002000, AXI VIP Selected: 0 
+axi4lite_wr(0x44A00064,0xC0002000,0)
+
+wait_us(3)
+
+-- AXI4-LITE Write - Control REG
+-- Address: 0x44A00058, Data: 0x01000020, AXI VIP Selected: 0 
+axi4lite_wr(0x44A00058,0x01000020,0)
+
+wait_us(3)
+
+-- AXI4-LITE Write - Control REG
+-- Address: 0x44A00054, Data: 0x00000020, AXI VIP Selected: 0 
+axi4lite_wr(0x44A00054,0x00000020,0)
+
+wait_us(3)
+
+-- AXI4-LITE Write - Control REG
+-- Address: 0x44A00050, Data: 0x00000010, AXI VIP Selected: 0 
+axi4lite_wr(0x44A00050,0x00000010,0)
+
+-- Wait for Video
+wait_us(100)
+

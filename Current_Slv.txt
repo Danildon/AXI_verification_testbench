@@ -1,0 +1,1431 @@
+
+-------------------------------------------
+
+AXI4-LITE Read Transaction EXECUTED!!!
+
+  # AXI VIP Selected :          0
+  # Address          : 0x00000000
+  # Expected Data    : 0x00000001
+  # Read Data        : 0x00000001 
+
+  # TIME             :   3085.000 ns
+
+------------------------------------------- 
+
+ !READ DATA IS THE SAME AS EXPECTED!!!
+
+
+
+-------------------------------------------
+
+AXI4-LITE Read Transaction EXECUTED!!!
+
+  # AXI VIP Selected :          0
+  # Address          : 0xc0000000
+  # Expected Data    : 0x00000002
+  # Read Data        : 0x00000002 
+
+  # TIME             :   6165.000 ns
+
+------------------------------------------- 
+
+ !READ DATA IS THE SAME AS EXPECTED!!!
+
+
+
+-------------------------------------------
+
+AXI4-LITE Read Transaction EXECUTED!!!
+
+  # AXI VIP Selected :          0
+  # Address          : 0xce000000
+  # Expected Data    : 0x00000003
+  # Read Data        : 0x00000003 
+
+  # TIME             :   9245.000 ns
+
+------------------------------------------- 
+
+ !READ DATA IS THE SAME AS EXPECTED!!!
+
+
+
+-------------------------------------------
+
+AXI4-LITE Read Transaction EXECUTED!!!
+
+  # AXI VIP Selected :          0
+  # Address          : 0xd0000000
+  # Expected Data    : 0x00000004
+  # Read Data        : 0x00000004 
+
+  # TIME             :  12325.000 ns
+
+------------------------------------------- 
+
+ !READ DATA IS THE SAME AS EXPECTED!!!
+
+
+
+-------------------------------------------
+
+AXI4-LITE Read Transaction EXECUTED!!!
+
+  # AXI VIP Selected :          0
+  # Address          : 0xd2000000
+  # Expected Data    : 0x00000005
+  # Read Data        : 0x00000005 
+
+  # TIME             :  15405.000 ns
+
+------------------------------------------- 
+
+ !READ DATA IS THE SAME AS EXPECTED!!!
+
+
+
+-------------------------------------------
+
+AXI4-LITE Read Transaction EXECUTED!!!
+
+  # AXI VIP Selected :          0
+  # Address          : 0xd4000000
+  # Expected Data    : 0x00000006
+  # Read Data        : 0x00000006 
+
+  # TIME             :  18485.000 ns
+
+------------------------------------------- 
+
+ !READ DATA IS THE SAME AS EXPECTED!!!
+
+
+
+-------------------------------------------
+
+AXI4-LITE Read Transaction EXECUTED!!!
+
+  # AXI VIP Selected :          0
+  # Address          : 0xd6000000
+  # Expected Data    : 0x00000007
+  # Read Data        : 0x00000007 
+
+  # TIME             :  21565.000 ns
+
+------------------------------------------- 
+
+ !READ DATA IS THE SAME AS EXPECTED!!!
+
+
+
+-------------------------------------------
+
+AXI4-LITE Read Transaction EXECUTED!!!
+
+  # AXI VIP Selected :          0
+  # Address          : 0xd8000000
+  # Expected Data    : 0x00000008
+  # Read Data        : 0x00000008 
+
+  # TIME             :  24645.000 ns
+
+------------------------------------------- 
+
+ !READ DATA IS THE SAME AS EXPECTED!!!
+
+
+
+-------------------------------------------
+
+AXI4-LITE Read Transaction EXECUTED!!!
+
+  # AXI VIP Selected :          0
+  # Address          : 0xda000000
+  # Expected Data    : 0x00000009
+  # Read Data        : 0x00000009 
+
+  # TIME             :  27725.000 ns
+
+------------------------------------------- 
+
+ !READ DATA IS THE SAME AS EXPECTED!!!
+
+
+
+-------------------------------------------
+
+AXI4-LITE Read Transaction EXECUTED!!!
+
+  # AXI VIP Selected :          0
+  # Address          : 0xdc000000
+  # Expected Data    : 0x0000000a
+  # Read Data        : 0x0000000a 
+
+  # TIME             :  30805.000 ns
+
+------------------------------------------- 
+
+ !READ DATA IS THE SAME AS EXPECTED!!!
+
+
+
+-------------------------------------------
+
+AXI4-LITE Read Transaction EXECUTED!!!
+
+  # AXI VIP Selected :          0
+  # Address          : 0xc2000000
+  # Expected Data    : 0x0000000b
+  # Read Data        : 0x0000000b 
+
+  # TIME             :  33885.000 ns
+
+------------------------------------------- 
+
+ !READ DATA IS THE SAME AS EXPECTED!!!
+
+
+
+-------------------------------------------
+
+AXI4-LITE Read Transaction EXECUTED!!!
+
+  # AXI VIP Selected :          0
+  # Address          : 0xc4000000
+  # Expected Data    : 0x0000000c
+  # Read Data        : 0x0000000c 
+
+  # TIME             :  36965.000 ns
+
+------------------------------------------- 
+
+ !READ DATA IS THE SAME AS EXPECTED!!!
+
+
+
+-------------------------------------------
+
+AXI4-LITE Read Transaction EXECUTED!!!
+
+  # AXI VIP Selected :          0
+  # Address          : 0xc6000000
+  # Expected Data    : 0x0000000d
+  # Read Data        : 0x0000000d 
+
+  # TIME             :  40045.000 ns
+
+------------------------------------------- 
+
+ !READ DATA IS THE SAME AS EXPECTED!!!
+
+
+
+-------------------------------------------
+
+AXI4-LITE Read Transaction EXECUTED!!!
+
+  # AXI VIP Selected :          0
+  # Address          : 0xc8000000
+  # Expected Data    : 0x0000000e
+  # Read Data        : 0x0000000e 
+
+  # TIME             :  43125.000 ns
+
+------------------------------------------- 
+
+ !READ DATA IS THE SAME AS EXPECTED!!!
+
+
+
+-------------------------------------------
+
+AXI4-LITE Read Transaction EXECUTED!!!
+
+  # AXI VIP Selected :          0
+  # Address          : 0xca000000
+  # Expected Data    : 0x0000000f
+  # Read Data        : 0x0000000f 
+
+  # TIME             :  46205.000 ns
+
+------------------------------------------- 
+
+ !READ DATA IS THE SAME AS EXPECTED!!!
+
+
+
+-------------------------------------------
+
+AXI4-LITE Read Transaction EXECUTED!!!
+
+  # AXI VIP Selected :          0
+  # Address          : 0xcc000000
+  # Expected Data    : 0x00000010
+  # Read Data        : 0x00000010 
+
+  # TIME             :  49285.000 ns
+
+------------------------------------------- 
+
+ !READ DATA IS THE SAME AS EXPECTED!!!
+
+
+
+-------------------------------------------
+
+AXI4-LITE Read Transaction EXECUTED!!!
+
+  # AXI VIP Selected :          0
+  # Address          : 0xde000000
+  # Expected Data    : 0x00000011
+  # Read Data        : 0x00000011 
+
+  # TIME             :  52365.000 ns
+
+------------------------------------------- 
+
+ !READ DATA IS THE SAME AS EXPECTED!!!
+
+
+
+-------------------------------------------
+
+AXI4-LITE Read Transaction EXECUTED!!!
+
+  # AXI VIP Selected :          0
+  # Address          : 0xe0000000
+  # Expected Data    : 0x00000012
+  # Read Data        : 0x00000012 
+
+  # TIME             :  55445.000 ns
+
+------------------------------------------- 
+
+ !READ DATA IS THE SAME AS EXPECTED!!!
+
+
+
+-------------------------------------------
+
+AXI4-LITE Read Transaction EXECUTED!!!
+
+  # AXI VIP Selected :          0
+  # Address          : 0xe2000000
+  # Expected Data    : 0x00000013
+  # Read Data        : 0x00000013 
+
+  # TIME             :  58525.000 ns
+
+------------------------------------------- 
+
+ !READ DATA IS THE SAME AS EXPECTED!!!
+
+
+--Write different init value to the different BRAMs
+
+-------------------------------------------
+
+AXI4-LITE WRITE Transaction EXECUTED!!!
+ # AXI VIP Selected :          0 
+ # Address          : 0x00000000 
+ # Write Data       : 0xed000001 
+
+ # TIME             :  61605.000 ns 
+-------------------------------------------
+
+
+ 
+-------------------------------------------
+
+AXI4-LITE WRITE Transaction EXECUTED!!!
+ # AXI VIP Selected :          0 
+ # Address          : 0xc0000000 
+ # Write Data       : 0xed000002 
+
+ # TIME             :  64685.000 ns 
+-------------------------------------------
+
+
+ 
+-------------------------------------------
+
+AXI4-LITE WRITE Transaction EXECUTED!!!
+ # AXI VIP Selected :          0 
+ # Address          : 0xce000000 
+ # Write Data       : 0xed000003 
+
+ # TIME             :  67765.000 ns 
+-------------------------------------------
+
+
+ 
+-------------------------------------------
+
+AXI4-LITE WRITE Transaction EXECUTED!!!
+ # AXI VIP Selected :          0 
+ # Address          : 0xd0000000 
+ # Write Data       : 0xed000004 
+
+ # TIME             :  70845.000 ns 
+-------------------------------------------
+
+
+ 
+-------------------------------------------
+
+AXI4-LITE WRITE Transaction EXECUTED!!!
+ # AXI VIP Selected :          0 
+ # Address          : 0xd2000000 
+ # Write Data       : 0xed000005 
+
+ # TIME             :  73925.000 ns 
+-------------------------------------------
+
+
+ 
+-------------------------------------------
+
+AXI4-LITE WRITE Transaction EXECUTED!!!
+ # AXI VIP Selected :          0 
+ # Address          : 0xd4000000 
+ # Write Data       : 0xed000006 
+
+ # TIME             :  77005.000 ns 
+-------------------------------------------
+
+
+ 
+-------------------------------------------
+
+AXI4-LITE WRITE Transaction EXECUTED!!!
+ # AXI VIP Selected :          0 
+ # Address          : 0xd6000000 
+ # Write Data       : 0xed000007 
+
+ # TIME             :  80085.000 ns 
+-------------------------------------------
+
+
+ 
+-------------------------------------------
+
+AXI4-LITE WRITE Transaction EXECUTED!!!
+ # AXI VIP Selected :          0 
+ # Address          : 0xd8000000 
+ # Write Data       : 0xed000008 
+
+ # TIME             :  83165.000 ns 
+-------------------------------------------
+
+
+ 
+-------------------------------------------
+
+AXI4-LITE WRITE Transaction EXECUTED!!!
+ # AXI VIP Selected :          0 
+ # Address          : 0xda000000 
+ # Write Data       : 0xed000009 
+
+ # TIME             :  86245.000 ns 
+-------------------------------------------
+
+
+ 
+-------------------------------------------
+
+AXI4-LITE WRITE Transaction EXECUTED!!!
+ # AXI VIP Selected :          0 
+ # Address          : 0xdc000000 
+ # Write Data       : 0xed00000a 
+
+ # TIME             :  89325.000 ns 
+-------------------------------------------
+
+
+ 
+-------------------------------------------
+
+AXI4-LITE WRITE Transaction EXECUTED!!!
+ # AXI VIP Selected :          0 
+ # Address          : 0xc2000000 
+ # Write Data       : 0xed00000b 
+
+ # TIME             :  92405.000 ns 
+-------------------------------------------
+
+
+ 
+-------------------------------------------
+
+AXI4-LITE WRITE Transaction EXECUTED!!!
+ # AXI VIP Selected :          0 
+ # Address          : 0xc4000000 
+ # Write Data       : 0xed00000c 
+
+ # TIME             :  95485.000 ns 
+-------------------------------------------
+
+
+ 
+-------------------------------------------
+
+AXI4-LITE WRITE Transaction EXECUTED!!!
+ # AXI VIP Selected :          0 
+ # Address          : 0xc6000000 
+ # Write Data       : 0xed00000d 
+
+ # TIME             :  98565.000 ns 
+-------------------------------------------
+
+
+ 
+-------------------------------------------
+
+AXI4-LITE WRITE Transaction EXECUTED!!!
+ # AXI VIP Selected :          0 
+ # Address          : 0xc8000000 
+ # Write Data       : 0xed00000e 
+
+ # TIME             : 101645.000 ns 
+-------------------------------------------
+
+
+ 
+-------------------------------------------
+
+AXI4-LITE WRITE Transaction EXECUTED!!!
+ # AXI VIP Selected :          0 
+ # Address          : 0xca000000 
+ # Write Data       : 0xed00000f 
+
+ # TIME             : 104725.000 ns 
+-------------------------------------------
+
+
+ 
+-------------------------------------------
+
+AXI4-LITE WRITE Transaction EXECUTED!!!
+ # AXI VIP Selected :          0 
+ # Address          : 0xcc000000 
+ # Write Data       : 0xed000010 
+
+ # TIME             : 107805.000 ns 
+-------------------------------------------
+
+
+ 
+-------------------------------------------
+
+AXI4-LITE WRITE Transaction EXECUTED!!!
+ # AXI VIP Selected :          0 
+ # Address          : 0xde000000 
+ # Write Data       : 0xed000011 
+
+ # TIME             : 110885.000 ns 
+-------------------------------------------
+
+
+ 
+-------------------------------------------
+
+AXI4-LITE WRITE Transaction EXECUTED!!!
+ # AXI VIP Selected :          0 
+ # Address          : 0xe0000000 
+ # Write Data       : 0xed000012 
+
+ # TIME             : 113965.000 ns 
+-------------------------------------------
+
+
+ 
+-------------------------------------------
+
+AXI4-LITE WRITE Transaction EXECUTED!!!
+ # AXI VIP Selected :          0 
+ # Address          : 0xe2000000 
+ # Write Data       : 0xed000013 
+
+ # TIME             : 117045.000 ns 
+-------------------------------------------
+
+
+ 
+-------------------------------------------
+
+AXI4-LITE WRITE Transaction EXECUTED!!!
+ # AXI VIP Selected :          0 
+ # Address          : 0x0000fffc 
+ # Write Data       : 0xc1e00001 
+
+ # TIME             : 120125.000 ns 
+-------------------------------------------
+
+
+ 
+-------------------------------------------
+
+AXI4-LITE WRITE Transaction EXECUTED!!!
+ # AXI VIP Selected :          0 
+ # Address          : 0xc000fffc 
+ # Write Data       : 0xc1e00002 
+
+ # TIME             : 123205.000 ns 
+-------------------------------------------
+
+
+ 
+-------------------------------------------
+
+AXI4-LITE WRITE Transaction EXECUTED!!!
+ # AXI VIP Selected :          0 
+ # Address          : 0xce00fffc 
+ # Write Data       : 0xc1e00003 
+
+ # TIME             : 126285.000 ns 
+-------------------------------------------
+
+
+ 
+-------------------------------------------
+
+AXI4-LITE WRITE Transaction EXECUTED!!!
+ # AXI VIP Selected :          0 
+ # Address          : 0xd000fffc 
+ # Write Data       : 0xc1e00004 
+
+ # TIME             : 129365.000 ns 
+-------------------------------------------
+
+
+ 
+-------------------------------------------
+
+AXI4-LITE WRITE Transaction EXECUTED!!!
+ # AXI VIP Selected :          0 
+ # Address          : 0xd200fffc 
+ # Write Data       : 0xc1e00005 
+
+ # TIME             : 132445.000 ns 
+-------------------------------------------
+
+
+ 
+-------------------------------------------
+
+AXI4-LITE WRITE Transaction EXECUTED!!!
+ # AXI VIP Selected :          0 
+ # Address          : 0xd400fffc 
+ # Write Data       : 0xc1e00006 
+
+ # TIME             : 135525.000 ns 
+-------------------------------------------
+
+
+ 
+-------------------------------------------
+
+AXI4-LITE WRITE Transaction EXECUTED!!!
+ # AXI VIP Selected :          0 
+ # Address          : 0xd600fffc 
+ # Write Data       : 0xc1e00007 
+
+ # TIME             : 138605.000 ns 
+-------------------------------------------
+
+
+ 
+-------------------------------------------
+
+AXI4-LITE WRITE Transaction EXECUTED!!!
+ # AXI VIP Selected :          0 
+ # Address          : 0xd800fffc 
+ # Write Data       : 0xc1e00008 
+
+ # TIME             : 141685.000 ns 
+-------------------------------------------
+
+
+ 
+-------------------------------------------
+
+AXI4-LITE WRITE Transaction EXECUTED!!!
+ # AXI VIP Selected :          0 
+ # Address          : 0xda00fffc 
+ # Write Data       : 0xc1e00009 
+
+ # TIME             : 144765.000 ns 
+-------------------------------------------
+
+
+ 
+-------------------------------------------
+
+AXI4-LITE WRITE Transaction EXECUTED!!!
+ # AXI VIP Selected :          0 
+ # Address          : 0xdc00fffc 
+ # Write Data       : 0xc1e0000a 
+
+ # TIME             : 147845.000 ns 
+-------------------------------------------
+
+
+ 
+-------------------------------------------
+
+AXI4-LITE WRITE Transaction EXECUTED!!!
+ # AXI VIP Selected :          0 
+ # Address          : 0xc200fffc 
+ # Write Data       : 0xc1e0000b 
+
+ # TIME             : 150925.000 ns 
+-------------------------------------------
+
+
+ 
+-------------------------------------------
+
+AXI4-LITE WRITE Transaction EXECUTED!!!
+ # AXI VIP Selected :          0 
+ # Address          : 0xc400fffc 
+ # Write Data       : 0xc1e0000c 
+
+ # TIME             : 154005.000 ns 
+-------------------------------------------
+
+
+ 
+-------------------------------------------
+
+AXI4-LITE WRITE Transaction EXECUTED!!!
+ # AXI VIP Selected :          0 
+ # Address          : 0xc600fffc 
+ # Write Data       : 0xc1e0000d 
+
+ # TIME             : 157085.000 ns 
+-------------------------------------------
+
+
+ 
+-------------------------------------------
+
+AXI4-LITE WRITE Transaction EXECUTED!!!
+ # AXI VIP Selected :          0 
+ # Address          : 0xc800fffc 
+ # Write Data       : 0xc1e0000e 
+
+ # TIME             : 160165.000 ns 
+-------------------------------------------
+
+
+ 
+-------------------------------------------
+
+AXI4-LITE WRITE Transaction EXECUTED!!!
+ # AXI VIP Selected :          0 
+ # Address          : 0xca00fffc 
+ # Write Data       : 0xc1e0000f 
+
+ # TIME             : 163245.000 ns 
+-------------------------------------------
+
+
+ 
+-------------------------------------------
+
+AXI4-LITE WRITE Transaction EXECUTED!!!
+ # AXI VIP Selected :          0 
+ # Address          : 0xcc00fffc 
+ # Write Data       : 0xc1e00010 
+
+ # TIME             : 166325.000 ns 
+-------------------------------------------
+
+
+ 
+-------------------------------------------
+
+AXI4-LITE WRITE Transaction EXECUTED!!!
+ # AXI VIP Selected :          0 
+ # Address          : 0xde00fffc 
+ # Write Data       : 0xc1e00011 
+
+ # TIME             : 169405.000 ns 
+-------------------------------------------
+
+
+ 
+-------------------------------------------
+
+AXI4-LITE WRITE Transaction EXECUTED!!!
+ # AXI VIP Selected :          0 
+ # Address          : 0xe000fffc 
+ # Write Data       : 0xc1e00012 
+
+ # TIME             : 172485.000 ns 
+-------------------------------------------
+
+
+ 
+-------------------------------------------
+
+AXI4-LITE WRITE Transaction EXECUTED!!!
+ # AXI VIP Selected :          0 
+ # Address          : 0xe200fffc 
+ # Write Data       : 0xc1e00013 
+
+ # TIME             : 175565.000 ns 
+-------------------------------------------
+
+
+ --Read values wrote before from the different BRAMs
+
+-------------------------------------------
+
+AXI4-LITE Read Transaction EXECUTED!!!
+
+  # AXI VIP Selected :          0
+  # Address          : 0x00000000
+  # Expected Data    : 0xed000001
+  # Read Data        : 0xc1e00001 
+
+  # TIME             : 178645.000 ns
+
+------------------------------------------- 
+
+ !WARNING READ DATA DOES NOT MATCH THE EXPECTED ONE
+
+
+
+-------------------------------------------
+
+AXI4-LITE Read Transaction EXECUTED!!!
+
+  # AXI VIP Selected :          0
+  # Address          : 0xc0000000
+  # Expected Data    : 0xed000002
+  # Read Data        : 0xc1e00002 
+
+  # TIME             : 181725.000 ns
+
+------------------------------------------- 
+
+ !WARNING READ DATA DOES NOT MATCH THE EXPECTED ONE
+
+
+
+-------------------------------------------
+
+AXI4-LITE Read Transaction EXECUTED!!!
+
+  # AXI VIP Selected :          0
+  # Address          : 0xce000000
+  # Expected Data    : 0xed000003
+  # Read Data        : 0xc1e00003 
+
+  # TIME             : 184805.000 ns
+
+------------------------------------------- 
+
+ !WARNING READ DATA DOES NOT MATCH THE EXPECTED ONE
+
+
+
+-------------------------------------------
+
+AXI4-LITE Read Transaction EXECUTED!!!
+
+  # AXI VIP Selected :          0
+  # Address          : 0xd0000000
+  # Expected Data    : 0xed000004
+  # Read Data        : 0xc1e00004 
+
+  # TIME             : 187885.000 ns
+
+------------------------------------------- 
+
+ !WARNING READ DATA DOES NOT MATCH THE EXPECTED ONE
+
+
+
+-------------------------------------------
+
+AXI4-LITE Read Transaction EXECUTED!!!
+
+  # AXI VIP Selected :          0
+  # Address          : 0xd2000000
+  # Expected Data    : 0xed000005
+  # Read Data        : 0xc1e00005 
+
+  # TIME             : 190965.000 ns
+
+------------------------------------------- 
+
+ !WARNING READ DATA DOES NOT MATCH THE EXPECTED ONE
+
+
+
+-------------------------------------------
+
+AXI4-LITE Read Transaction EXECUTED!!!
+
+  # AXI VIP Selected :          0
+  # Address          : 0xd4000000
+  # Expected Data    : 0xed000006
+  # Read Data        : 0xc1e00006 
+
+  # TIME             : 194045.000 ns
+
+------------------------------------------- 
+
+ !WARNING READ DATA DOES NOT MATCH THE EXPECTED ONE
+
+
+
+-------------------------------------------
+
+AXI4-LITE Read Transaction EXECUTED!!!
+
+  # AXI VIP Selected :          0
+  # Address          : 0xd6000000
+  # Expected Data    : 0xed000007
+  # Read Data        : 0xc1e00007 
+
+  # TIME             : 197125.000 ns
+
+------------------------------------------- 
+
+ !WARNING READ DATA DOES NOT MATCH THE EXPECTED ONE
+
+
+
+-------------------------------------------
+
+AXI4-LITE Read Transaction EXECUTED!!!
+
+  # AXI VIP Selected :          0
+  # Address          : 0xd8000000
+  # Expected Data    : 0xed000008
+  # Read Data        : 0xc1e00008 
+
+  # TIME             : 200205.000 ns
+
+------------------------------------------- 
+
+ !WARNING READ DATA DOES NOT MATCH THE EXPECTED ONE
+
+
+
+-------------------------------------------
+
+AXI4-LITE Read Transaction EXECUTED!!!
+
+  # AXI VIP Selected :          0
+  # Address          : 0xda000000
+  # Expected Data    : 0xed000009
+  # Read Data        : 0xc1e00009 
+
+  # TIME             : 203285.000 ns
+
+------------------------------------------- 
+
+ !WARNING READ DATA DOES NOT MATCH THE EXPECTED ONE
+
+
+
+-------------------------------------------
+
+AXI4-LITE Read Transaction EXECUTED!!!
+
+  # AXI VIP Selected :          0
+  # Address          : 0xdc000000
+  # Expected Data    : 0xed00000a
+  # Read Data        : 0xc1e0000a 
+
+  # TIME             : 206365.000 ns
+
+------------------------------------------- 
+
+ !WARNING READ DATA DOES NOT MATCH THE EXPECTED ONE
+
+
+
+-------------------------------------------
+
+AXI4-LITE Read Transaction EXECUTED!!!
+
+  # AXI VIP Selected :          0
+  # Address          : 0xc2000000
+  # Expected Data    : 0xed00000b
+  # Read Data        : 0xc1e0000b 
+
+  # TIME             : 209445.000 ns
+
+------------------------------------------- 
+
+ !WARNING READ DATA DOES NOT MATCH THE EXPECTED ONE
+
+
+
+-------------------------------------------
+
+AXI4-LITE Read Transaction EXECUTED!!!
+
+  # AXI VIP Selected :          0
+  # Address          : 0xc4000000
+  # Expected Data    : 0xed00000c
+  # Read Data        : 0xc1e0000c 
+
+  # TIME             : 212525.000 ns
+
+------------------------------------------- 
+
+ !WARNING READ DATA DOES NOT MATCH THE EXPECTED ONE
+
+
+
+-------------------------------------------
+
+AXI4-LITE Read Transaction EXECUTED!!!
+
+  # AXI VIP Selected :          0
+  # Address          : 0xc6000000
+  # Expected Data    : 0xed00000d
+  # Read Data        : 0xc1e0000d 
+
+  # TIME             : 215605.000 ns
+
+------------------------------------------- 
+
+ !WARNING READ DATA DOES NOT MATCH THE EXPECTED ONE
+
+
+
+-------------------------------------------
+
+AXI4-LITE Read Transaction EXECUTED!!!
+
+  # AXI VIP Selected :          0
+  # Address          : 0xc8000000
+  # Expected Data    : 0xed00000e
+  # Read Data        : 0xc1e0000e 
+
+  # TIME             : 218685.000 ns
+
+------------------------------------------- 
+
+ !WARNING READ DATA DOES NOT MATCH THE EXPECTED ONE
+
+
+
+-------------------------------------------
+
+AXI4-LITE Read Transaction EXECUTED!!!
+
+  # AXI VIP Selected :          0
+  # Address          : 0xca000000
+  # Expected Data    : 0xed00000f
+  # Read Data        : 0xc1e0000f 
+
+  # TIME             : 221765.000 ns
+
+------------------------------------------- 
+
+ !WARNING READ DATA DOES NOT MATCH THE EXPECTED ONE
+
+
+
+-------------------------------------------
+
+AXI4-LITE Read Transaction EXECUTED!!!
+
+  # AXI VIP Selected :          0
+  # Address          : 0xcc000000
+  # Expected Data    : 0xed000010
+  # Read Data        : 0xc1e00010 
+
+  # TIME             : 224845.000 ns
+
+------------------------------------------- 
+
+ !WARNING READ DATA DOES NOT MATCH THE EXPECTED ONE
+
+
+
+-------------------------------------------
+
+AXI4-LITE Read Transaction EXECUTED!!!
+
+  # AXI VIP Selected :          0
+  # Address          : 0xde000000
+  # Expected Data    : 0xed000011
+  # Read Data        : 0xc1e00011 
+
+  # TIME             : 227925.000 ns
+
+------------------------------------------- 
+
+ !WARNING READ DATA DOES NOT MATCH THE EXPECTED ONE
+
+
+
+-------------------------------------------
+
+AXI4-LITE Read Transaction EXECUTED!!!
+
+  # AXI VIP Selected :          0
+  # Address          : 0xe0000000
+  # Expected Data    : 0xed000012
+  # Read Data        : 0xc1e00012 
+
+  # TIME             : 231005.000 ns
+
+------------------------------------------- 
+
+ !WARNING READ DATA DOES NOT MATCH THE EXPECTED ONE
+
+
+
+-------------------------------------------
+
+AXI4-LITE Read Transaction EXECUTED!!!
+
+  # AXI VIP Selected :          0
+  # Address          : 0xe2000000
+  # Expected Data    : 0xed000013
+  # Read Data        : 0xc1e00013 
+
+  # TIME             : 234085.000 ns
+
+------------------------------------------- 
+
+ !WARNING READ DATA DOES NOT MATCH THE EXPECTED ONE
+
+
+
+-------------------------------------------
+
+AXI4-LITE Read Transaction EXECUTED!!!
+
+  # AXI VIP Selected :          0
+  # Address          : 0x0000fffc
+  # Expected Data    : 0xc1e00001
+  # Read Data        : 0xed000001 
+
+  # TIME             : 237165.000 ns
+
+------------------------------------------- 
+
+ !WARNING READ DATA DOES NOT MATCH THE EXPECTED ONE
+
+
+
+-------------------------------------------
+
+AXI4-LITE Read Transaction EXECUTED!!!
+
+  # AXI VIP Selected :          0
+  # Address          : 0xc000fffc
+  # Expected Data    : 0xc1e00002
+  # Read Data        : 0xed000002 
+
+  # TIME             : 240245.000 ns
+
+------------------------------------------- 
+
+ !WARNING READ DATA DOES NOT MATCH THE EXPECTED ONE
+
+
+
+-------------------------------------------
+
+AXI4-LITE Read Transaction EXECUTED!!!
+
+  # AXI VIP Selected :          0
+  # Address          : 0xce00fffc
+  # Expected Data    : 0xc1e00003
+  # Read Data        : 0xed000003 
+
+  # TIME             : 243325.000 ns
+
+------------------------------------------- 
+
+ !WARNING READ DATA DOES NOT MATCH THE EXPECTED ONE
+
+
+
+-------------------------------------------
+
+AXI4-LITE Read Transaction EXECUTED!!!
+
+  # AXI VIP Selected :          0
+  # Address          : 0xd000fffc
+  # Expected Data    : 0xc1e00004
+  # Read Data        : 0xed000004 
+
+  # TIME             : 246405.000 ns
+
+------------------------------------------- 
+
+ !WARNING READ DATA DOES NOT MATCH THE EXPECTED ONE
+
+
+
+-------------------------------------------
+
+AXI4-LITE Read Transaction EXECUTED!!!
+
+  # AXI VIP Selected :          0
+  # Address          : 0xd200fffc
+  # Expected Data    : 0xc1e00005
+  # Read Data        : 0xed000005 
+
+  # TIME             : 249485.000 ns
+
+------------------------------------------- 
+
+ !WARNING READ DATA DOES NOT MATCH THE EXPECTED ONE
+
+
+
+-------------------------------------------
+
+AXI4-LITE Read Transaction EXECUTED!!!
+
+  # AXI VIP Selected :          0
+  # Address          : 0xd400fffc
+  # Expected Data    : 0xc1e00006
+  # Read Data        : 0xed000006 
+
+  # TIME             : 252565.000 ns
+
+------------------------------------------- 
+
+ !WARNING READ DATA DOES NOT MATCH THE EXPECTED ONE
+
+
+
+-------------------------------------------
+
+AXI4-LITE Read Transaction EXECUTED!!!
+
+  # AXI VIP Selected :          0
+  # Address          : 0xd600fffc
+  # Expected Data    : 0xc1e00007
+  # Read Data        : 0xed000007 
+
+  # TIME             : 255645.000 ns
+
+------------------------------------------- 
+
+ !WARNING READ DATA DOES NOT MATCH THE EXPECTED ONE
+
+
+
+-------------------------------------------
+
+AXI4-LITE Read Transaction EXECUTED!!!
+
+  # AXI VIP Selected :          0
+  # Address          : 0xd800fffc
+  # Expected Data    : 0xc1e00008
+  # Read Data        : 0xed000008 
+
+  # TIME             : 258725.000 ns
+
+------------------------------------------- 
+
+ !WARNING READ DATA DOES NOT MATCH THE EXPECTED ONE
+
+
+
+-------------------------------------------
+
+AXI4-LITE Read Transaction EXECUTED!!!
+
+  # AXI VIP Selected :          0
+  # Address          : 0xda00fffc
+  # Expected Data    : 0xc1e00009
+  # Read Data        : 0xed000009 
+
+  # TIME             : 261805.000 ns
+
+------------------------------------------- 
+
+ !WARNING READ DATA DOES NOT MATCH THE EXPECTED ONE
+
+
+
+-------------------------------------------
+
+AXI4-LITE Read Transaction EXECUTED!!!
+
+  # AXI VIP Selected :          0
+  # Address          : 0xdc00fffc
+  # Expected Data    : 0xc1e0000a
+  # Read Data        : 0xed00000a 
+
+  # TIME             : 264885.000 ns
+
+------------------------------------------- 
+
+ !WARNING READ DATA DOES NOT MATCH THE EXPECTED ONE
+
+
+
+-------------------------------------------
+
+AXI4-LITE Read Transaction EXECUTED!!!
+
+  # AXI VIP Selected :          0
+  # Address          : 0xc200fffc
+  # Expected Data    : 0xc1e0000b
+  # Read Data        : 0xed00000b 
+
+  # TIME             : 267965.000 ns
+
+------------------------------------------- 
+
+ !WARNING READ DATA DOES NOT MATCH THE EXPECTED ONE
+
+
+
+-------------------------------------------
+
+AXI4-LITE Read Transaction EXECUTED!!!
+
+  # AXI VIP Selected :          0
+  # Address          : 0xc400fffc
+  # Expected Data    : 0xc1e0000c
+  # Read Data        : 0xed00000c 
+
+  # TIME             : 271045.000 ns
+
+------------------------------------------- 
+
+ !WARNING READ DATA DOES NOT MATCH THE EXPECTED ONE
+
+
+
+-------------------------------------------
+
+AXI4-LITE Read Transaction EXECUTED!!!
+
+  # AXI VIP Selected :          0
+  # Address          : 0xc600fffc
+  # Expected Data    : 0xc1e0000d
+  # Read Data        : 0xed00000d 
+
+  # TIME             : 274125.000 ns
+
+------------------------------------------- 
+
+ !WARNING READ DATA DOES NOT MATCH THE EXPECTED ONE
+
+
+
+-------------------------------------------
+
+AXI4-LITE Read Transaction EXECUTED!!!
+
+  # AXI VIP Selected :          0
+  # Address          : 0xc800fffc
+  # Expected Data    : 0xc1e0000e
+  # Read Data        : 0xed00000e 
+
+  # TIME             : 277205.000 ns
+
+------------------------------------------- 
+
+ !WARNING READ DATA DOES NOT MATCH THE EXPECTED ONE
+
+
+
+-------------------------------------------
+
+AXI4-LITE Read Transaction EXECUTED!!!
+
+  # AXI VIP Selected :          0
+  # Address          : 0xca00fffc
+  # Expected Data    : 0xc1e0000f
+  # Read Data        : 0xed00000f 
+
+  # TIME             : 280285.000 ns
+
+------------------------------------------- 
+
+ !WARNING READ DATA DOES NOT MATCH THE EXPECTED ONE
+
+
+
+-------------------------------------------
+
+AXI4-LITE Read Transaction EXECUTED!!!
+
+  # AXI VIP Selected :          0
+  # Address          : 0xcc00fffc
+  # Expected Data    : 0xc1e00010
+  # Read Data        : 0xed000010 
+
+  # TIME             : 283365.000 ns
+
+------------------------------------------- 
+
+ !WARNING READ DATA DOES NOT MATCH THE EXPECTED ONE
+
+
+
+-------------------------------------------
+
+AXI4-LITE Read Transaction EXECUTED!!!
+
+  # AXI VIP Selected :          0
+  # Address          : 0xde00fffc
+  # Expected Data    : 0xc1e00011
+  # Read Data        : 0xed000011 
+
+  # TIME             : 286445.000 ns
+
+------------------------------------------- 
+
+ !WARNING READ DATA DOES NOT MATCH THE EXPECTED ONE
+
+
+
+-------------------------------------------
+
+AXI4-LITE Read Transaction EXECUTED!!!
+
+  # AXI VIP Selected :          0
+  # Address          : 0xe000fffc
+  # Expected Data    : 0xc1e00012
+  # Read Data        : 0xed000012 
+
+  # TIME             : 289525.000 ns
+
+------------------------------------------- 
+
+ !WARNING READ DATA DOES NOT MATCH THE EXPECTED ONE
+
+
+
+-------------------------------------------
+
+AXI4-LITE Read Transaction EXECUTED!!!
+
+  # AXI VIP Selected :          0
+  # Address          : 0xe200fffc
+  # Expected Data    : 0xc1e00013
+  # Read Data        : 0xed000013 
+
+  # TIME             : 292605.000 ns
+
+------------------------------------------- 
+
+ !WARNING READ DATA DOES NOT MATCH THE EXPECTED ONE
+
+
+
+
+TEST DONE : Completed SUCCESSFUL
+
